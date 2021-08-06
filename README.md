@@ -10,8 +10,8 @@
 ## About The Project
 
 Final project of APIT - FI, UNAM. 
-An AI model for Natural Lengauge Proccesing based on a GRU Neuronal Network.
-NOTA: To know more about this project you can check our PDF documentation [Doc here](https://github.com/aMurryFly/Text-Classification-AI-Model-on-COVID-19-Tweets/blob/main/final_project.pdf)
+An AI model for Natural Lenguage Proccesing based on a GRU Neuronal Network.<br>
+NOTE: To know more about this project you can check our PDF documentation [Doc here](https://github.com/aMurryFly/Text-Classification-AI-Model-on-COVID-19-Tweets/blob/main/final_project.pdf)
 
 
 ### Built With
