@@ -2,7 +2,7 @@
   <h3 align="center">Sentimental-Classification-AI-Model-on-COVID-19-Tweets 💻</h3>
 
   <p align="center">
-    APIT material. Engineering Faculty, UNAM.
+    APIT subject. Engineering Faculty, UNAM.
   <p/>
 </p>
 
